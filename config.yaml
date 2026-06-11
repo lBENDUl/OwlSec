@@ -1,0 +1,11 @@
+# config.yaml — API Keys para OSINT Toolkit
+# Copia este archivo y rellena tus claves
+
+# Shodan (https://account.shodan.io/)
+shodan_api_key: ""
+
+# Have I Been Pwned (https://haveibeenpwned.com/API/Key)
+hibp_api_key: ""
+
+# VirusTotal (https://www.virustotal.com/gui/my-apikey)  [próximamente]
+virustotal_api_key: ""
